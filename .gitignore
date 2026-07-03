@@ -1,0 +1,16 @@
+## python
+
+### python
+__pycache__
+
+### pyenv
+.python-version
+
+### venv
+.venv
+
+### poetry
+poetry.lock
+
+## vscode
+.vscode
